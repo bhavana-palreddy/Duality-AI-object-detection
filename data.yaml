@@ -1,0 +1,5 @@
+train: C:/Users/bhavana reddy/Downloads/hackathon2_train_1/train_1/train1/images
+val: C:/Users/bhavana reddy/Downloads/hackathon2_train_1/train_1/val1/images
+
+nc: 7
+names: ["astronaut", "helmet", "glove", "tool", "panel", "fire_extinguisher", "other"]
