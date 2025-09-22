@@ -1,4 +1,4 @@
-# Smart Research Assistant – Object Detection (Duality Hackathon)
+# AI– Object Detection (Duality Hackathon)
 
 ## Problem Statement
 Research and report writing is time-consuming, with people spending hours searching through documents, PDFs, and multiple tools. Current tools are fragmented and inefficient.  
